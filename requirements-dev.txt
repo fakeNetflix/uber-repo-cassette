@@ -1,6 +1,6 @@
 mock==1.0.1
 flake8==2.0
-Flask==0.9
+Flask==1.0
 sphinx==1.2b1
 zest.releaser>=3.52
 requests>=2.3.0
